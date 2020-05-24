@@ -11,4 +11,4 @@
 
 In this python program we are going to see the virtula display of out traffic light control system. We have used turtel to create the the graphics.
 
-![Stop Light](https://drive.google.com/file/d/1-7ItaKiJJO4yV2MEyrOfngKd5lJN2F7y/view?usp=sharing)
+![Stop Light](https://drive.google.com/file/d/1BG2vP_8bfgUvbDNu53NWy24YyBg2_Kb7/view?usp=sharing)
