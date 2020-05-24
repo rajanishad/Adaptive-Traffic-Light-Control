@@ -11,4 +11,4 @@
 
 In this python program we are going to see the virtula display of out traffic light control system. We have used turtel to create the the graphics.
 
-![Stop Light](/Capture.JPG)
+<img src="./Capture.JPG" width="400" height="400">
