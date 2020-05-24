@@ -23,3 +23,15 @@ Currently the value of time is entered maunally in the terminal window for each 
 <img src="./dsga.JPG">
 
 Later the project will be integrated completely with automatic time distribution based on vehicle count.
+
+## s2.py
+
+This is the program for detecting and counting vehice using openCV and pre trained Haar cascade classifier.
+
+In this we are  processing 4 videos and storing the count in variables n1, n2, n3 and n4 and are also being printed in terminal.
+
+The output of video with bounding box and terminal is displayed as shown in image.
+
+<img src="./vbdb.JPG"><img src="./dsvdzv.JPG">
+<img src="./xzvxcv.JPG"><img src="./xcvxcv.JPG">
+<img src="./gnhfg.JPG">
